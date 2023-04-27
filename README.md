@@ -1,6 +1,5 @@
 <h1 align="center">Hi  there 👋, I'm Sibananda Sahu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width"400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sibananda-sahu17&label=Profile%20views&color=0e75b6&style=flat" alt="sibananda-sahu17" /> </p>
 
@@ -8,6 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<div>
 - 🔭 I’m currently working on [React JS](https://sibananda-sahu17.github.io/Tesla-Clone/)
 
 - 🌱 I’m currently learning **React JS, Next JS, Material UI, Tailwind CSS.**
@@ -15,7 +15,8 @@
 - 📫 Reach me **sibananda6481@gmail.com**
 
 - 📄 Resume [https://drive.google.com/file/d/1uxfyekGd9qxYWe2JunZfppd0BUp_uJ9W/view?usp=sharing](https://drive.google.com/file/d/1uxfyekGd9qxYWe2JunZfppd0BUp_uJ9W/view?usp=sharing)
-
+<img align="right" alt="coding" width"400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sibananda-sahu-b8a383206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sibananda-sahu-b8a383206" height="30" width="40" /></a>
