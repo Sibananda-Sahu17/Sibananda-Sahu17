@@ -15,7 +15,7 @@
 
 - 📫 Reach me **sibananda6481@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uxfyekGd9qxYWe2JunZfppd0BUp_uJ9W/view?usp=sharing](https://drive.google.com/file/d/1uxfyekGd9qxYWe2JunZfppd0BUp_uJ9W/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1uxfyekGd9qxYWe2JunZfppd0BUp_uJ9W/view?usp=sharing](https://drive.google.com/file/d/1uxfyekGd9qxYWe2JunZfppd0BUp_uJ9W/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
