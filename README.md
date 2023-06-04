@@ -11,7 +11,7 @@
 
 <!-- - 🔭 I’m currently working on [React JS](https://sibananda-sahu17.github.io/Tesla-Clone/) -->
 
-- 🌱 I’m currently learning **React JS, Next JS, Chart JS, Material UI, Tailwind CSS.**
+- 🌱 I’m currently working on **React JS, Redux, Next JS, Chart JS, Material UI, Tailwind CSS.**
 
 - 📫 Reach me **sibananda6481@gmail.com**
 
